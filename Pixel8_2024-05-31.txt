@@ -1,0 +1,100 @@
+Pixel8
+	Colors
+			The Pixel 8 is available in the following colors Hazel, Mint, Obsidian and Rose
+	Display
+			The screen is 6.2 inches (157 millimeter) with a 20:9 aspect ratio. The OLED display has a resolution of 1080 x 2400 which translates into 428 Pixels per Inch. The screen features a 'Smooth Display' with a refresh rate of 60Hz to 120 Hz. It supports a brightness of 1,400 nits for HDR and upto 2,000 nits for peak brightness with a contrast ratio greater than 1,000,000:1. The screen supports 24-bit color depth for 16 million colors.
+			The display is protected by Corning Gorilla Victus cover glass and is an 'Always-on' diplay with 'At-a-Glance' and 'Now Playing'.
+	Dimensions
+			The Pixel 8 measures 150.5 height x 170.8 width x 8.9 depth in mm and measured in inches it is 5.9 height x 2.8 width x 0.4 depth.
+	Weight
+			The Pixel 8 weighs 187 grams in Metric or 6.6oz in Imperial.
+	Battery
+			The Pixel 8 features a 4575 mAh battery (minimum 4495 mAh). The battery should last 24+ hours in normal use and with 'Extreme Battery Saver' mode - the battery should last upto 72 hours.
+	Charging
+			Pixel 8 supports 'Fast Charging' which charges your phone upto 50% within 30 minutes using Google's 30W USB-C Charger with USB-PD 3.0 (PPS) which is sold separately. Pixel 8 can handle both 'Qi-certified Fast wireless charging' and 'Battery Share'.
+	Memory
+			The Pixel 8 is equipped with 8GB of LPDDR5X RAM as well as additional 128GB or 256 GB UFS 3.1 storage based on the variant.
+		Expandable Storage 
+			The Pixel 8 offers 128GB or 256GB of onboard storage and the option to expand storage with Google Drive. It does not support microSD expansion for storage.
+	Processor
+			The Pixel 8 runs on the 'Google Tensor G3' processor and also has the 'Titan M2' security coprocessor.
+	Security
+			The Pixel comes with multi-layer hardware security with the Tensor security core, Titan M2 security chip and 'Trusty' which is the Trusted execution environment. There will be 7 years of OS, security and 'Feature Drop' updates. There are toggles for the input devices of microphone and camera to ensure better security.
+			The Pixel 8 offers encryption for personal data both at rest and in transit, uses a secure hardware module known as the Titan M chip for protection against data breaches and malware attacks, and provides granular control over app permissions to manage and restrict access to personal information.
+			
+			Google also emphasizes the privacy and security features built into the Pixel devices, such as Call Screen, which doesn't save screened call information to your Google Account, and Now Playing, which uses federated analytics for privacy-preserving song recognition. Pixel devices come with Google Play Protect to safeguard against malware and offer features like Safe Browsing and built-in anti-phishing protections.
+	Authentication
+			The Pixel 8 provides an under display fingerprint sensor, 'Face Unlock', pattern, pin and password to keep your Pixel 8 secure.
+	Photography
+		How to take photos 
+			1. Open your Camera app.
+			
+			2. Point your camera and wait for it to focus.
+			
+			3. Tap Capture.
+			
+			Zoom
+			Pinch open or closed on your screen, double-tap the screen, or use the slider at the bottom.
+			
+			Tip: When you take a picture from far away, to capture the most details, zoom into your subject first.
+		Rear Camera
+			There are 2 rear cameras on the Pixel 8, a 50MP Octa PD wide camera with a pixel width of 1.2 μm and apperture of ƒ/1.68. It has an 82° field of view with a 1/1.31" image sensor size. It supports 'Super ResZoom' upto 8x. The second 12MP ultrawide camera with in-built auto-focus has a pixel width of 1.25 μm and an apperture of ƒ/2.2. It has an 25.8° field of view and supports 'Lens correction'.
+			Both rear cameras rely on Single-zone LDAF (laser detect auto-focus) sensor, Spectral and flicker sensor. Both cameras also benefit from Optical + electronic image stabilisation.
+		Front Camera
+			The Pixel 8 features a Fixed focus front camera with a 10.5MP dual PD selfie camera with a 1.22 μm pixel width and ƒ/2.2 aperture and 95° ultrawide field of view.
+		Image Features
+		Ultra HDR
+			Pixel 8 and Pixel 8 Pro introduce the new Ultra HDR image format, which enhances HDR content for a more natural and lifelike look. It maintains backward compatibility by using the .jpeg extension.
+		Magic Editor
+			Magic Editor is designed to improve photo quality by providing pro-level edits. It uses AI to enhance images, remove specific parts, and make your content sparkle.
+			With Magic Editor, you can make complex edits without pro-level editing skills. Using a combination of AI techniques, including generative AI, it will help you make edits to specific parts of an image like the subject, sky or background — so you have even more control over the final look and feel of your photo. You could remove the bag strap you forgot to take off when you snapped that photo. Or you could also make the sky brighter and less cloudy. Or you could relocate and change the scale of your subject. You can also create new content to fill the gaps after repositioning your subject.
+		Best Take
+			Google Photos Best Take is a feature exclusive to the Pixel 8 series. It�s part of the new AI capabilities on these phones and enhances group photos by automatically selecting the best expressions from a series of shots. However, for now, it�s limited to Pixel 8 and Pixel 8 Pro phones due to the use of Google�s new Tensor G3 chipset. Best Take is specifically designed for Google Pixel phones and leverages Google�s advanced photography and machine learning capabilities.
+			Best Take is driven by a combination of different AI models that analyze images, check timestamps to find photos taken in sequence, search for signals like head poses and facial expressions and finally suggest images of faces where subjects are looking at the lens and smiling. Once selected, technology adapted from AI-driven Google Photos features like Magic Eraser and Cinematic photos helps seamlessly blend the images and fix any background errors.
+			After taking a few pictures within seconds of each other, go to Google Photos, choose Best Take from the edit tools and Best Take will automatically create a look for you. You can also select each person’s face to see more choices.
+		Macro Focus
+			Macro Focus lets you get extremely close to a subject and capture it in great detail. Just ensure there's enough light, and don't hold the phone directly on top of the subject.
+		Magic Eraser
+			Magic Eraser removes stuff you don’t want to see in your photos.
+		Photo Unblur
+			Photo Unblur takes blurry images and uses a bit of AI and machine learning to reconstruct the image, except this time the image is in focus more so than it was previously.
+		Motion Mode
+			Motion Mode is a camera feature designed to capture vivid, clear photos of subjects in motion, such as moving vehicles or people running, while artistically blurring the background to convey a sense of movement and speed. It's ideal for dynamic shots, enhancing the feeling of action in your images.
+			
+			
+		Real Tone
+			Historically, camera technology has excluded people of color, resulting in unflattering photos for those with darker skin tones. With the Pixel 8 camera tuning models have been improved as well as the algorithms to more accurately highlight diverse skin tones with Real Tone software. The goal is to bring accuracy to cameras and the images they produce. Real Tone is not a single technology, but rather a broad approach and commitment – in partnership with image experts who have spent their careers beautifully and accurately representing communities of color – that has resulted in tuning computational photography algorithms to better reflect the nuances of diverse skin tones.
+		Face Unblur
+			Face Unblur improves facial sharpness and detail when it detects a blurry photo, often caused by motion blur due to slow shutter speeds. It’s a common issue in darker environments, or when moving/shaking too much while shooting.
+			Using Face Unblur is straightforward when using a supported Pixel device. The feature is completely automatic when shooting a photo from a supported handset (Pixel 6 series and newer).
+		Panorama
+			Panorama allows you to create wider photos by stitching together multiple photos. To access Panorama mode, from the Camera app, swipe left to Panorama. Select the Capture icon then pan the camera to complete the capture.
+			
+			
+		Manual white balancing
+			The Pixel 8 allows you to manual adjust white balance, shadows, and brightness before taking photos.
+		Locked Folder
+			Locked Folder is a passcode-protected space to save sensitive photos and videos on-device, so they won’t show up in your photo grid or other apps. With Pixel 8 you now have the option to back up your Locked Folder so you can access those photos and videos with your passcode on any of your devices. Plus, you’ll now be able to set up and access Locked Folder on iOS devices and the web.
+		Night Sight
+			Night Sight is a low-light photo setting that takes crisp, beautiful photos. Night Sight constantly adapts to you and the environment, whether you’re holding Pixel or propping it on a steady surface. Before you press the shutter button, Night Sight measures your natural hand shake, as well as how much motion is in the scene. If the Pixel is stable and the scene is still, Night Sight will spend more time capturing light to minimize noise; if the Pixel is moving or there’s significant scene motion, Night Sight will use shorter exposures, capturing less light to minimize motion blur.			
+			
+			If your subject moves during the capture, Night Sight can adapt to prevent a modest amount of motion from ruining the shot. Instead of capturing one bright and blurry photo, Night Sight captures an equal amount of light over a burst of many photos that are dark but sharp. By merging this burst, Night Sight prevents motion blur and brightens the photo, giving you a bright and sharp photo.
+		Astrophotography
+			Astrophotography in Night Sight on Google Pixel will automatically engage if the sensors in the phone detect a dark setting away from light pollution and a steady camera. When in astrophotography mode, Pixel phones will take 16 16-second photos when the shutter is pressed, then merge all of them together. The result is a single crisp and detailed photograph of the night sky and your chosen framing landscape. Night Sight also has a special feature called astro-lapse which takes a string of photos and creates a one-second time lapse movie of the moving stars.
+			
+		Top Shot
+			Top Shot automatically selects the best photo from a series of shots.
+			
+		Portrait Mode
+			Portrait Mode is a camera feature that can give your photos an extra bit of flair. It works by blurring the background behind the subject of your photo, giving you a sort of bokeh effect. Bokeh is the blurry background you get when you snap a photo with a longer lens, that focuses your attention on the subject of your photo. It's typically used when taking portraits of people, hence the name of the mode on your smartphone.
+		Portrait Light
+			Portrait Light allows you to change the lighting of the face in your selfies and portrait photos.
+		Super Res Zoom
+			The Pixel 8 tops out at 8x zoom, which Google calls Super Res Zoom.
+		Frequent Faces
+			With the Frequent Faces feature turned on, your Pixel 8 will identify people you photograph often. It saves facial data locally on your device without sending it to Google. Frequent Faces then improves shots of recognised individuals by recommending better-framed photos with open eyes and smiles.
+		Dual exposure controls
+			Dual Exposure technology is available on the new main camera in Pixel 8 and Pixel 8 Pro. It makes videos sharper and less grainy in scenes with the toughest lighting, like a sunset backdrop. Dual Exposure effectively takes two images simultaneously — one optimized for low-light and the other for high dynamic range. The result is natural-looking videos with vivid color and low noise.
+		HDR+
+			HDR+ on the Pixel Camera makes photos look better by automatically adjusting for color and lighting.
+
